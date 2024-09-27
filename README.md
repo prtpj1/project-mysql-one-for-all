@@ -1,7 +1,7 @@
 # 20º Projeto: MySQL - One for All
 
 <p align="center">
-<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/19%20-%20All%20For%20One.jpg" alt="Header" />
+<img src="https://github.com/prtpj1/prtpj1/blob/main/Headers/19%20-%20All%20For%20One.jpg" alt="Header" />
 <hr/>
 
 <p align="center">
